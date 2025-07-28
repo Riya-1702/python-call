@@ -1,9 +1,9 @@
 from twilio.rest import Client
 
 # Twilio credentials
-account_sid = 'AC235cb59aa9b6ea74f3a5eacd50650797'
-auth_token = '0a5a298c0d8eeab10c1b6c0beb564ccc'
-twilio_number = '+17755499097'
+account_sid = ''
+auth_token = ''
+twilio_number = ''
 to_number = input("Enter the number to call (with country code): ")
 
 # Initialize client
